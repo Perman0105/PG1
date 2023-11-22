@@ -1,0 +1,8 @@
+# ninja log v5
+1	362	7121102608623717	CMakeFiles/Probe_Klausur_2607.dir/main.cpp.obj	aedeed4a3eb7881e
+383	474	7121086020366676	Probe_Klausur_2607.exe	4801ac112f735ae4
+1	6	0	clean	577b940aee94fbd7
+19	325	7121102608256936	CMakeFiles/Probe_Klausur_2607.dir/termin.cpp.obj	66c57cb30a05ffef
+13	354	7121102608548718	CMakeFiles/Probe_Klausur_2607.dir/callcenter.cpp.obj	ea1f089edb01f868
+16	416	7121102609159493	CMakeFiles/Probe_Klausur_2607.dir/arztpraxis.cpp.obj	45353633ec2f06b0
+2	446	7121152642389442	CMakeFiles/Probe_Klausur_2607.dir/arztpraxis.cpp.obj	45353633ec2f06b0

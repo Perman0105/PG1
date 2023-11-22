@@ -1,0 +1,8 @@
+# ninja log v5
+2	368	7123811174136570	CMakeFiles/4x4Gewinnt.dir/collect4.cpp.obj	f493176d1a4183fb
+2	370	7123808696278449	CMakeFiles/4x4Gewinnt.dir/main.cpp.obj	b6dedd2c5eea9365
+368	459	7123811175015354	4x4Gewinnt.exe	74630530fd07703b
+2	115	7123815835950349	CMakeFiles/4x4Gewinnt.dir/player.cpp.obj	ed4577fffc7691aa
+115	203	7123815836809085	4x4Gewinnt.exe	416c625ef956bd27
+2	299	7123818417999113	CMakeFiles/4x4Gewinnt.dir/collect4.cpp.obj	f493176d1a4183fb
+299	382	7123818418802053	4x4Gewinnt.exe	416c625ef956bd27

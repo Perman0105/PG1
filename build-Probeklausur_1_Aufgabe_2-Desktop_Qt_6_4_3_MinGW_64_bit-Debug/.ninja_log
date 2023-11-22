@@ -1,0 +1,16 @@
+# ninja log v5
+20	416	7124189820353471	CMakeFiles/Probeklausur_1.dir/termin.cpp.obj	f75f487c84ce467f
+0	438	7124189820572899	CMakeFiles/Probeklausur_1.dir/main.cpp.obj	1605378e3c1a4fed
+16	445	7124189820642716	CMakeFiles/Probeklausur_1.dir/callcenter.cpp.obj	d7ac164453d711ac
+12	499	7124189821181260	CMakeFiles/Probeklausur_1.dir/arztpraxis.cpp.obj	e3cf491a7c07b4b3
+499	595	7124189822122742	Probeklausur_1.exe	9a332168f7513f87
+2	384	7124190632514217	CMakeFiles/Probeklausur_1.dir/callcenter.cpp.obj	d7ac164453d711ac
+384	476	7124190633414773	Probeklausur_1.exe	9a332168f7513f87
+2	390	7124191093005551	CMakeFiles/Probeklausur_1.dir/termin.cpp.obj	f75f487c84ce467f
+390	489	7124191093972966	Probeklausur_1.exe	9a332168f7513f87
+2	453	7124191547415663	CMakeFiles/Probeklausur_1.dir/arztpraxis.cpp.obj	e3cf491a7c07b4b3
+454	548	7124191548332200	Probeklausur_1.exe	9a332168f7513f87
+3	420	7124193030191109	CMakeFiles/Probeklausur_1.dir/arztpraxis.cpp.obj	e3cf491a7c07b4b3
+420	515	7124193031098679	Probeklausur_1.exe	9a332168f7513f87
+2	433	7124193795364705	CMakeFiles/Probeklausur_1.dir/arztpraxis.cpp.obj	e3cf491a7c07b4b3
+433	526	7124193796257723	Probeklausur_1.exe	9a332168f7513f87
